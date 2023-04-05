@@ -1,0 +1,22 @@
+body {
+  font-family: avenir;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(blue, #ff00cc);
+  color: white;
+}
+
+p {
+  width: 80%;
+}
+
+button {
+  background: rebeccapurple;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 50%;
+}
